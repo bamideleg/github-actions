@@ -22,11 +22,11 @@
 	</header>
 	<!-- END HEADER | the header element in new to HTML5 -->
 		<div class="main">
-			<h2>Best Selling Clothing</h2>
+			<h2>This is just an example with some web content.</h2>
 		</div>
 		<div class="feature">
-			<h3>Best Selling Clothing</h3>
-			<p>free picking up at store for order over GBP£35.00.</p>
+			<h3>Featured Content 1</h3>
+			<p>lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum.</p>
 			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
 		<div class="feature">
